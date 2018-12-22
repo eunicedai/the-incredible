@@ -84,7 +84,7 @@ img{
 .link ul li{
 	display: inline;
 }
-.char, .ep1, .ep2{
+.char, .ep1, .ep2, .intro{
 	color: white;
 	font-family: Impact;
 	font-size: 24px;
@@ -93,6 +93,9 @@ img{
 	margin-right: 10%;
 }
 .ep2{
+	margin-left: 10%;
+}
+.intro{
 	margin-left: 10%;
 }
 .clear{
@@ -113,6 +116,9 @@ img{
 		margin-top: 5%;
 	}
 	.ep2{
+		margin-left: 0;
+	}
+	.intro{
 		margin-left: 0;
 	}
 }
